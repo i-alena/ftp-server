@@ -18,8 +18,8 @@ It comes without any warranties of any kind.
 * In the main file (simple-ftp-server.sln.cpp), there is an example of using the server.
 * You can change some arguments at lines 12-13:\
   ```unsigned int port = smth;
-	   std::string dir = "smth"; ```\
- Where
-  * port - port that users will use to connect to the server
-  * dir - directory that the server will share to users
+	   std::string dir = "smth";```\
+  Where
+  	* port - port that users will use to connect to the server
+  	* dir - directory that the server will share to users
 * Compile and run.
