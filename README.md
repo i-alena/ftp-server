@@ -19,7 +19,7 @@ It comes without any warranties of any kind.
 * You can change some arguments at lines 12-13:\
   ```unsigned int port = smth;
 	   std::string dir = "smth"; ```\
-  Where
+ Where
   * port - port that users will use to connect to the server
   * dir - directory that the server will share to users
 * Compile and run.
